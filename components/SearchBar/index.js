@@ -1,4 +1,4 @@
-import styles from './search.module.css'
+import styles from './Search.module.css'
 
 import React from 'react'
 
